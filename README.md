@@ -1,0 +1,2 @@
+# Vivegam
+Vivegam is wisdom
