@@ -1,0 +1,12 @@
+
+Le contenu de ce master est exclusivement destiné à l'Alliance Française, afin de permettre aux enseignants de disposer d'une version "offline" de l'application sur leur ordinateur en cas de coupure réseau ou internet, les mettant dans l'incapacité de se connecter au bureau virtuel.
+
+Sur PC et sur MAC : 
+	- copier la totalité du dossier présent à la racine du master,
+	- le coller à l'emplacement désiré (de préférence dans un dossier accessible  l'ensemble des utilisateurs de l'ordinateur concerné)
+	- lancer l'application en double-cliquant sur :
+		***PC*** le fichier ECHO.exe
+		***MAC***le fichier ECHO.osx
+	- si besoin, créer un raccourci sur le bureau vers :
+		***PC*** le fichier ECHO.exe
+		***MAC***le fichier ECHO.osx
